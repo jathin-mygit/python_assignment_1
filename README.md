@@ -6,6 +6,6 @@
 
 #TASK 2 : Create a personalized greeting <br>
 1. Takes a user's first name and last name as input. <br>
-2.Prints a personalized greeting message using the full name.
+2. Prints a personalized greeting message using the full name.
 
 
